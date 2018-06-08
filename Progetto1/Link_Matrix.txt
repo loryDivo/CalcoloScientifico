@@ -1,0 +1,13 @@
+Matrix positive link:
+apache2 -> https://sparse.tamu.edu/MM/GHS_psdef/apache2.tar.gz
+shallow_water1 -> https://sparse.tamu.edu/MM/MaxPlanck/shallow_water1.tar.gz
+ex15 -> https://sparse.tamu.edu/MM/FIDAP/ex15.tar.gz
+cfd1 -> https://sparse.tamu.edu/MM/Rothberg/cfd1.tar.gz
+cfd2 -> https://sparse.tamu.edu/MM/Rothberg/cfd2.tar.gz
+
+Matrix not positive
+PR02R -> https://sparse.tamu.edu/MM/Fluorem/PR02R.tar.gz
+water_tank -> https://sparse.tamu.edu/MM/Rudnyi/water_tank.tar.gz
+graham1 -> https://sparse.tamu.edu/MM/Graham/graham1.tar.gz
+ex19 -> https://sparse.tamu.edu/MM/FIDAP/ex19.tar.gz
+raefsky3 -> https://sparse.tamu.edu/MM/Simon/raefsky3.tar.gz
