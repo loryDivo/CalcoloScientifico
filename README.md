@@ -1,4 +1,4 @@
-# Analisi prestazionale risoluzione matrici e compressione immagini
+# Performance analysis related to the resolution of sparse matrices and digital image compression
 Part 1
 Statistical analysis of sparse matrices resolution in different programming languages:
 - R
